@@ -24,3 +24,4 @@ function refreshData() {
 }
 
 //refreshData should work but the API only updates its data every 2 hours-ish.
+// Have not tested
